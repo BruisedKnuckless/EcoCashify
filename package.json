@@ -13,7 +13,7 @@
   "keywords": ["marketplace", "sustainable", "react", "nodejs"],
   "author": "EcoFinds Team",
   "license": "MIT",
-  "Dependencies": {
+  "dependencies": {
     "concurrently": "^8.2.2"
   }
 }
